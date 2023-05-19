@@ -33,6 +33,7 @@ Repositório Criado Para Lab do Serviço da AWS EC2 Image Builder
   * [CIS Hardening Components for EC2 Image Builder ](https://cisecurity.atlassian.net/servicedesk/customer/portal/15/article/2850881850)
 * [What is Mutable vs. Immutable Infrastructure?](https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure)
 * [A Tale of Two Terraforms — A Model for Managing Immutable and Mutable Infrastructure](https://medium.com/rigged-ops/a-tale-of-two-terraforms-a-model-for-managing-immutable-and-mutable-infrastructure-fa0f5422c27b)
+* [AWS Well-Architected Framework - REL08-BP04 Deploy using immutable infrastructure](https://docs.aws.amazon.com/pt_br/wellarchitected/latest/reliability-pillar/rel_tracking_change_management_immutable_infrastructure.html)
 
 
 ### Blogs
