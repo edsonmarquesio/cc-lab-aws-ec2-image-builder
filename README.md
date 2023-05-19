@@ -1,0 +1,1 @@
+# cc-lab-aws-ec2-image-builder
